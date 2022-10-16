@@ -4,18 +4,69 @@
   <head>
    <meta charset="UTF-8">
    <title> WINTER EVENT</title>
-    </head>
+   <link rel="stylesheet" href="style.css"
+
+   <style>
+    <!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+   <meta charset="UTF-8">
+   <title> WINTER EVENT</title>
+   </head>
+    
   <body>
-   h1>WINTER EVENT</H1>
-  
-   <P>NA <strong>WINTER EVENT<strong> VOCE VERA OS MELHORES EVENTOS JA CRIADOS NO CENARIO DE FESTAS!!</P>
-   <P><em>NOSSA MISSAO É:<strong>TRAZER O MELHOR QUE EXISTE NOS EVENTOS BRASILEIROS!!<strong></em></P>
-   <p><strong>localizada no coraçao da cidade de piraquara PR, fundada em 1999.<strong><p>
+
+   <p>Na <strong>WINTER EVENT<strong> Você verá os melhores eventos já feitos no cenário brasileiro!!</P>
+   <p id="missao"><em>Nossa missão é:  <strong>trazer o melhor que existe nos eventos brasileiros, com os melhores profissionais da área!!</strong>.</em></p>
+   <p><strong>localizada no coraçao da cidade de piraquara PR, fundada em 1999.</strong></p>   
+
    </body>
  </html>
-   
+  
+        
+     
+
+
+
+   <h1>WINTER EVENT</h1>
+    <img id="banner" src="cultura-rave.jpg">
+    
+    
+    
+    
+    
+    
+    body{
+     background: #cccccc
+ }
+
+
+#banner{
+     width: 100%;
+}
+     
+
+     
+
+
+ h1{
+    text-align: center
+ }
+
+
+p{
+      text-align: center
+ }
+
+
+#missao{
+    font-sizi: 20px
+}
 
 
 
 
-  <
+em strong{
+     color : rgb(0, 0, 154);
+}
