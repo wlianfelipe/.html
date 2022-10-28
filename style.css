@@ -1,0 +1,41 @@
+<h1>WINTER EVENT</h1>
+    <img id="banner" src="cultura-rave.jpg">
+    
+    
+    
+    
+    
+    
+    body{
+     background: #cccccc
+ }
+
+
+#banner{
+     width: 100%;
+}
+     
+
+     
+
+
+ h1{
+    text-align: center
+ }
+
+
+p{
+      text-align: center
+ }
+
+
+#missao{
+    font-sizi: 20px
+}
+
+
+
+
+em strong{
+     color : rgb(0, 0, 154);
+}
