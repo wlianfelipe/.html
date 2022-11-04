@@ -21,7 +21,7 @@
      
 
 
- h1{
+.titulo-centralizado{
     text-align: center
  }
 
@@ -48,3 +48,6 @@ em strong{
     font-style:italic
  }   
     
+
+
+
